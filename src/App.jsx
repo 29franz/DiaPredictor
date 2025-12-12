@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-    const host = 'http://127.0.0.1:5000';
+    const host = 'https://diapredictor-backend12122025.onrender.app';
 
     const [showAssessment, setShowAssessment] = useState(false);
     const [loading, setLoading] = useState(false);
